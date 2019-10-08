@@ -31,7 +31,7 @@ DNA_strand ("GTAT") # return "CATA"
 //    return dna_f;
 //}
 
-//the best function
+//the best   function
 #include <map>
 
 const std::map<char, char> mapping =
